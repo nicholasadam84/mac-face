@@ -1,0 +1,35 @@
+body {
+  /* font-family: 'Quicksand', sans-serif; */
+  font-family: 'Julius Sans One', sans-serif;
+
+  text-align: center;
+}
+
+h1 {
+  color: #43A1FC;
+  font-family: 'Julius Sans One', sans-serif;
+
+}
+
+@import url('https://fonts.googleapis.com/css?family=Aclonica|Julius+Sans+One|Montserrat|Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poppins|Roboto+Mono&display=swap');
+
+.food-card {
+    /* font-family: 'Poppins', sans-serif; */
+    /* font-family: 'Roboto Mono', monospace; */
+    /* font-family: 'Montserrat', sans-serif; */
+    /* font-family: 'Quicksand', sans-serif; */
+    width: 300px;
+}
+/* body {
+    text-align: center;
+} */
+
+h3 {
+    font-family: 'Julius Sans One', sans-serif;
+    margin: 0;
+}
+
+p {
+    margin: 10px;
+}
